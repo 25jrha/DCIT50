@@ -4,13 +4,14 @@ A compilation of all laboratory activities and projects developed during the DCI
 ## Overview
 This repository contains multiple lab activities and the midterm and final lab exam activity for the DCIT50 course. Each activity focuses on different Java concepts, including object-oriented programming, arrays, loops, conditionals, inheritance, polymorphism, and GUI development.
 
-## Table of Contents
+## Table of Contents ##
 [1. LibrarySystem]
 [2. BookList]
 [3 & 4. CoffeeShopRewards] 
 [5. SchoolManagementSystem]  
 [6. SmartHomeControlSystem]
-[Finals Lab Activity: ToDoListProject (Java Swing)]  
+[Midterms lab Exam]
+[Finals Lab Exam]  
 
 
 
@@ -31,5 +32,8 @@ A program that models a school environment, distinguishing roles between student
 ### 6. SmartHomeControlSystem
 A simulation of a smart home environment, allowing users to control devices such as lights, air conditioners, and microwaves.  
 
-### Finals Lab Activity: ToDoListProject (Java Swing)
+### Midterms Lab Exam
+This project is a simplified **Smart Home Management System** developed in Java. It simulates a small smart home environment where different devices can be controlled, monitored, and displayed.
+
+### Finals Lab Exam
 A GUI application that allows users to create and manage tasks efficiently.  
