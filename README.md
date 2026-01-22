@@ -5,6 +5,7 @@ A compilation of all laboratory activities and projects developed during the DCI
 This repository contains multiple lab activities and the midterm and final lab exam activity for the DCIT50 course. Each activity focuses on different Java concepts, including object-oriented programming, arrays, loops, conditionals, inheritance, polymorphism, and GUI development.
 
 ##Table of Contents
+
 [1. LibrarySystem]
 [2. BookList]
 [3 & 4. CoffeeShopRewards] 
