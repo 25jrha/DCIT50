@@ -4,14 +4,17 @@ A compilation of all laboratory activities and projects developed during the DCI
 ## Overview
 This repository contains multiple lab activities and the midterm and final lab exam activity for the DCIT50 course. Each activity focuses on different Java concepts, including object-oriented programming, arrays, loops, conditionals, inheritance, polymorphism, and GUI development.
 
-##Table of Contents
-
+## Table of Contents
 [1. LibrarySystem]
 [2. BookList]
 [3 & 4. CoffeeShopRewards] 
 [5. SchoolManagementSystem]  
 [6. SmartHomeControlSystem]
 [Finals Lab Activity: ToDoListProject (Java Swing)]  
+
+
+
+## Project Description
 
 ### 1. LibrarySystem
 A console-based system for managing library operations, such as adding, borrowing, and returning books.  
